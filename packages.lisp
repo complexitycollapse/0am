@@ -1,4 +1,9 @@
 ;;;; package.lisp
 
 (defpackage #:0am
-  (:use #:cl))
+  (:use #:cl)
+  (:export :is
+	   :run
+	   :test
+	   :*tests*
+	   :clear-tests))
