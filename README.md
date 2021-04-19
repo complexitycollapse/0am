@@ -1,7 +1,5 @@
-# Common Lisp Project Template
+# 0am
 
-This is a template for my Common Lisp projects.
+A minimal test framework for Common Losp.
 
-To use: create a new repo based on this template, clone it locally, then from that directory run:
-
-    ./init.sh <name-for-the-project>
+There are many others, but I'm trying to hit the sweet spot of exactly what I need.

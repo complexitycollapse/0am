@@ -1,1 +1,1 @@
-(progn (ql:quickload #:%ApplicationName%) (in-package #:%ApplicationName%))
+(progn (ql:quickload #:0am) (in-package #:0am))
